@@ -11,3 +11,4 @@ timestamp,customer,agent,action,amount,decision,rule_number,reason
 2026-11-17 22:13:30,Vikrant,GiftBot,refund,200,ASK CUSTOMER,7,A refund always needs the customer to confirm
 2026-11-17 22:14:43,Vikrant,ShopBot3,place_order,1200,ALLOW,5,"Place order up to Rs 3,000 is allowed"
 2026-11-17 22:15:13,Vikrant,ShopBot2,place_order,500,BLOCK,1,This agent has been revoked
+2026-11-17 22:20:39,Vikrant,ShopBot3,place_order,-100,BLOCK,3,"Place order, return, and refund need an amount above zero"
