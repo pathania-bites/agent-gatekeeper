@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ShopBot",
+    "status": "revoked",
+    "registered_at": "2026-11-15 17:18:57",
+    "revoked_at": "2026-11-15 17:19:50"
+  },
+  {
+    "name": "GiftBot",
+    "status": "active",
+    "registered_at": "2026-11-17 22:05:32",
+    "revoked_at": ""
+  }
+]
