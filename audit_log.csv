@@ -5,3 +5,9 @@ timestamp,customer,agent,action,amount,decision,rule_number,reason
 2026-11-17 22:04:23,,ShopBot,place_order,8000,BLOCK,1,This agent has been revoked
 2026-11-17 22:04:53,,ShopBot,place_order,1200,BLOCK,1,This agent has been revoked
 2026-11-17 22:05:52,,GiftBot,refund,200,BLOCK,3,The customer or the action is missing or invalid
+2026-11-17 22:11:57,Vikrant,ShopBot2,view_order,,ALLOW,4,Viewing an order is allowed
+2026-11-17 22:12:32,Vikrant,ShopBot2,place_order,8000,ASK CUSTOMER,6,"Place order above Rs 3,000 needs the customer to confirm"
+2026-11-17 22:12:49,Vikrant,ShopBot,place_order,1200,BLOCK,1,This agent has been revoked
+2026-11-17 22:13:30,Vikrant,GiftBot,refund,200,ASK CUSTOMER,7,A refund always needs the customer to confirm
+2026-11-17 22:14:43,Vikrant,ShopBot3,place_order,1200,ALLOW,5,"Place order up to Rs 3,000 is allowed"
+2026-11-17 22:15:13,Vikrant,ShopBot2,place_order,500,BLOCK,1,This agent has been revoked

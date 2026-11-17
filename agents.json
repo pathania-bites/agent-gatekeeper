@@ -10,5 +10,17 @@
     "status": "active",
     "registered_at": "2026-11-17 22:05:32",
     "revoked_at": ""
+  },
+  {
+    "name": "ShopBot2",
+    "status": "revoked",
+    "registered_at": "2026-11-17 22:11:11",
+    "revoked_at": "2026-11-17 22:13:09"
+  },
+  {
+    "name": "ShopBot3",
+    "status": "active",
+    "registered_at": "2026-11-17 22:14:18",
+    "revoked_at": ""
   }
 ]
